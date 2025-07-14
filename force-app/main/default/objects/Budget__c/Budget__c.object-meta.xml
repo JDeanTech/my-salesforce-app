@@ -156,7 +156,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>Budget</label>
     <nameField>
-        <label>Budget Name</label>
+        <label>Paycheck Date</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Budgets</pluralLabel>
